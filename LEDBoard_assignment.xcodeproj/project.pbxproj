@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0419CC3A270BD30800F871C2 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0419CC39270BD30800F871C2 /* TestViewController.swift */; };
 		047DD3B42706D4A700FD6565 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047DD3B32706D4A700FD6565 /* AppDelegate.swift */; };
 		047DD3B62706D4A700FD6565 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047DD3B52706D4A700FD6565 /* SceneDelegate.swift */; };
 		047DD3B82706D4A700FD6565 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047DD3B72706D4A700FD6565 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0419CC39270BD30800F871C2 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		047DD3B02706D4A700FD6565 /* LEDBoard_assignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LEDBoard_assignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		047DD3B32706D4A700FD6565 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		047DD3B52706D4A700FD6565 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				047DD3B52706D4A700FD6565 /* SceneDelegate.swift */,
 				047DD3B72706D4A700FD6565 /* ViewController.swift */,
 				047DD3B92706D4A700FD6565 /* Main.storyboard */,
+				0419CC39270BD30800F871C2 /* TestViewController.swift */,
 				047DD3BC2706D4AA00FD6565 /* Assets.xcassets */,
 				047DD3BE2706D4AA00FD6565 /* LaunchScreen.storyboard */,
 				047DD3C12706D4AA00FD6565 /* Info.plist */,
@@ -144,6 +147,7 @@
 			files = (
 				047DD3B82706D4A700FD6565 /* ViewController.swift in Sources */,
 				047DD3B42706D4A700FD6565 /* AppDelegate.swift in Sources */,
+				0419CC3A270BD30800F871C2 /* TestViewController.swift in Sources */,
 				047DD3B62706D4A700FD6565 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
